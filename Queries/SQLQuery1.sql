@@ -1,0 +1,3 @@
+SELECT CONG_VIEC.macv, CONG_VIEC.tencv, count(CONG_VIEC.macv) as soluongnv FROM NHAN_VIEN 
+JOIN CONG_VIEC ON NHAN_VIEN.macv = CONG_VIEC.macv
+GROUP BY CONG_VIEC.macv, CONG_VIEC.tencv
