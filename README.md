@@ -65,3 +65,6 @@ Several SQL queries have been implemented to support data analysis and reporting
 - `SQLQuery5` - List of employees who confirmed imports in July 2024: Returns the names of employees responsible for completing import receipts during July 2024.
 - `SQLQuery9` - Top 3 suppliers by total quantity of products supplied: Displays the supplier ID, supplier name, and total quantity of products supplied by the top 3 suppliers who have delivered the most items to the warehouse.
 
+## Contact
+
+For any questions or feedback, please contact via email: l.vikiet21@gmail.com
